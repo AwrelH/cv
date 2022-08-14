@@ -89,7 +89,6 @@
     letter-spacing: 1px;
     
  }
- .hvr-sweep-to-bottom:before{
-    content:'';
-    color: rgba(0, 0, 0, 0.466);
+ .hvr-sweep-to-bottom::before{
+    background: rgba(0, 0, 0, 0.466);
     }

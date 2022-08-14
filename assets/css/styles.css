@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+#nav {
+    font-size: 0;
+}
+.logo {
+    background-image: url(../images/guy-image.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 360px;
+    transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+}
+
+.bg-color-name-title {
+    background-color: gray;
+
+}
+
+.heading .name {
+    font-family: 'Exo', sans-serif;
+    font-weight: 100;
+    font-size: 3rem;
+    margin-top: 4rem;
+   
+}
+
+.title {
+    font-weight: 200;
+    margin-top: 0;
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 90px;
+}
+
+.menufont {
+    font-size: 1rem;
+}
+.ui-menu-color-home {
+    background-color: rgb(135, 222, 186);
+}
+.ui-menu-color-contact {
+    background-color: burlywood;
+}
+.ui-menu-color-resume {
+    background-color:cornflowerblue;
+}
+.ui-menu-color-download {
+    background-color: rgb(135, 222, 135);
+}
+ .list-inline-item:not(:last-child) {
+    margin: 0;
+ }
+ #nav li {
+    font-size: 1rem;
+ }

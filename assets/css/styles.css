@@ -174,3 +174,13 @@
         margin-top: 25px;
         margin-bottom: 40px;
     }
+
+    .three-reasons-icon {
+
+        font-size: 1.6rem;
+        color: crimson;
+    }
+    .three-reasons-heading {
+        margin-bottom: 1rem;
+
+    }
